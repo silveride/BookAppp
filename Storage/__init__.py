@@ -8,3 +8,4 @@ Created on Tue Oct 24 16:59:27 2017
 
 from .DynamoIntr import DynamoIntr
 from .redisIntr import redisIntr
+from .PostGresIntr import PostGresDBInterface
